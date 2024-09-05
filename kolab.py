@@ -13,3 +13,10 @@ def luas_persegi():
     luas = a*a
     print("luas pesegi ",luas_persegi)
 luas_persegi()
+
+
+def keliling_persegi():
+    a = int(input("masukkan keliling persegi: "))
+    keliling = 4*a
+    print("keliling persegi adalah: ", a)
+keliling_persegi()
